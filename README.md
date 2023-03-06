@@ -1,3 +1,4 @@
+
 # Ignite Challenger Chapter III - Database Queries
 
 
@@ -39,3 +40,4 @@ Realizar consultas no banco de dados com o TypeORM de três formas:
 - [x]  Should be able to get the total count of games
 - [x]  Should be able to list users who have given game id
  
+![image](https://user-images.githubusercontent.com/17480162/223164783-18101eb4-93fa-4961-95d6-881623be2e9b.png)
